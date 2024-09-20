@@ -7,16 +7,27 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. Initialize Parameters
-2. Hypothesis Function (Sigmoid Function)
-3. Cost Function (Log-Loss)
-4. Gradient Calculation
-5. Parameter Update
-6. Repeat for Multiple Iterations
-7. Prediction Function
-8. Model Evaluation
-
+## Algorithm:
+## Step 1.
+Start the program.
+## Step 2.
+Initialize Parameters
+## Step 3.
+Hypothesis Function (Sigmoid Function)
+## Step 4.
+Cost Function (Log-Loss)
+## Step 5.
+Gradient Calculation
+## Step 6.
+Parameter Update
+## Step 7.
+Repeat for Multiple Iterations
+## Step 8.
+Prediction Function
+## Step 9.
+Model Evaluation
+## Step 10.
+End the program.
 ## Program:
 ```
 /*
